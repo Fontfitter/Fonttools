@@ -51,6 +51,6 @@ RETURN
 Compiling "/Users/adrianshome/Desktop/Dsig fldr/AdmarBolItaStd.ttx" to "/Users/adrianshome/Desktop/Dsig fldr/AdmarBolItaStd.ttf"...
 Parsing 'DSIG' table...
 
-OVERWRITES ORIGINAL TTF FILE (check time difference):
+OVERWRITES ORIGINAL TTF FILE (check time difference between original file and modified file to confirm the merge):
 
 Adrians-iMac:~ adrianshome$
